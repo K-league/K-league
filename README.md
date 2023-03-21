@@ -1,12 +1,12 @@
 # Hi, I'm Kayleigh - aka [K-league][website] 👋 
 
 
-# Tech Communicator | Writer | Developer
+# Project Manager | Writer | Developer
 
 - 🔭 I help students debug their code!
 - 🌱 I’m currently learning Python, JavaScript, React, Node, SQL and MongoDB
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: attend coding meetups, support new devs, write more than I did in 2021!
+- 🥅 2023 Goals: Help student developers create awesome projects!
 - ⚡ Fun fact: I love archery!
 
 # Connect with me:
